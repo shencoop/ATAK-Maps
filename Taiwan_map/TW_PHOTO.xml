@@ -4,7 +4,7 @@
    <minZoom>1</minZoom>
    <maxZoom>18</maxZoom>
    <tileType>png</tileType>
-   <url>https://wmts.nlsc.gov.tw/wmts/PHOTO_MIX/default/GoogleMapsCompatible/{$z}/{$y}/{$x}</url>
+   <url>https://wmts.nlsc.gov.tw/wmts/PHOTO2/default/GoogleMapsCompatible/{$z}/{$y}/{$x}</url>
    <tileUpdate>None</tileUpdate>
    <backgroundColor>#000000</backgroundColor>
    <ignoreErrors>false</ignoreErrors>
