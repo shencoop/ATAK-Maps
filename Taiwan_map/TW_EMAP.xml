@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+   <name>TW_EMAP96</name>
+   <minZoom>0</minZoom>
+   <maxZoom>18</maxZoom>
+   <tileType>png</tileType>
+   <url>https://wmts.nlsc.gov.tw/wmts/EMAP96/default/GoogleMapsCompatible/{$z}/{$y}/{$x}.png</url>
+   <tileUpdate>None</tileUpdate>
+   <backgroundColor>#000000</backgroundColor>
+   <ignoreErrors>false</ignoreErrors>
+</customMapSource>
