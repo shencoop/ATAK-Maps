@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+   <name>TW_PHOTO_MIX</name>
+   <minZoom>1</minZoom>
+   <maxZoom>18</maxZoom>
+   <tileType>png</tileType>
+   <url>https://wmts.nlsc.gov.tw/wmts/PHOTO_MIX/default/GoogleMapsCompatible/{$z}/{$y}/{$x}</url>
+   <tileUpdate>None</tileUpdate>
+   <backgroundColor>#000000</backgroundColor>
+   <ignoreErrors>false</ignoreErrors>
+   <serverParts></serverParts>
+</customMapSource>
+
+
