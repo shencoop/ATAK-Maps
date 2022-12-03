@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+   <name>TW_RUDY</name>
+   <minZoom>1</minZoom>
+   <maxZoom>18</maxZoom>
+   <tileType>png</tileType>
+   <url>http://rudy.tile.basecamp.tw/{$z}/{$x}/{$y}.png</url>
+   <tileUpdate>None</tileUpdate>
+   <backgroundColor>#000000</backgroundColor>
+   <ignoreErrors>false</ignoreErrors>
+</customMapSource>
