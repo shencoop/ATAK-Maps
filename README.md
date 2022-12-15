@@ -23,10 +23,10 @@
 >[How to create an issue or feature request]
 
 ### 目前增加臺灣國土測繪中心圖資
-電子地圖
-影像圖
-影像圖混合
-5000分之一地形圖
+電子地圖、
+影像圖、
+影像圖混合、
+5000分之一地形圖、
 魯地圖
 
 >[How to do a pull request]
