@@ -11,15 +11,22 @@
  
 ### How do I add these maps to ATAK ?
 ![Download ATAK-Maps.zip](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_1.png?raw=true)
+下載ATAK-Maps.zip
 
 
 ![Goto Import Manager](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_2.png?raw=true)
-
+匯入資料管理
 
 ![Locate the ATAK-Maps.zip file](https://github.com/joshuafuller/ATAK-Maps/blob/master/images/screenshot_3.png?raw=true)
 
 ### Can you add other maps ?
 >[How to create an issue or feature request]
-增加臺灣國土測繪中心圖資
+
+### 目前增加臺灣國土測繪中心圖資
+電子地圖
+影像圖
+影像圖混合
+5000分之一地形圖
+魯地圖
 
 >[How to do a pull request]
